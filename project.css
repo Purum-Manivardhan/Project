@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.banner {
+    background-color: #40b6ff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.phonepay {
+    margin: 20px 0;
+}
+
+.phonepay img {
+    width: 100px; /* Adjust as necessary */
+    height: auto;
+}
+
+.contact-info {
+    margin-top: 10px;
+}
